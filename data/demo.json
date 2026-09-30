@@ -1,0 +1,9 @@
+{
+  "disclaimer": "Fictional training data only. CountSafe does not replace a veterinarian, controlled-substance recordkeeper, legal counsel, or DEA guidance.",
+  "varianceThresholds": {"watch": 1, "critical": 3},
+  "clinics": [
+    {"id":"cedar","name":"Cedar Creek Animal Clinic","deaSchedule":"II","drug":"Hydromorphone 2 mg/mL","unit":"mL","opening":42,"purchased":20,"administered":31.5,"waste":1.5,"transferred":0,"observed":28.5},
+    {"id":"harbor","name":"Harborview Veterinary Care","deaSchedule":"III","drug":"Ketamine 100 mg/mL","unit":"mL","opening":86,"purchased":50,"administered":47,"waste":2,"transferred":5,"observed":82}
+  ],
+  "auditSteps": ["Preserve the source log, invoice, and count photo","Recount with two staff members and record initials","Review purchases, administrations, waste, and transfers","Document the correction or escalate under clinic policy"]
+}
